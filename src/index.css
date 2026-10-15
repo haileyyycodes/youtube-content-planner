@@ -1,0 +1,8 @@
+:root {
+  color-scheme: light;
+  font-family: system-ui, sans-serif;
+  color: #1f2328;
+  background: #fff;
+}
+body { margin: 0; background: #fff; }
+a { color: #0969da; }
